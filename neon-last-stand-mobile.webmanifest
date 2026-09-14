@@ -1,0 +1,10 @@
+{
+  "name": "Neon Last Stand: Mobile",
+  "short_name": "Neon Mobile",
+  "start_url": "./neon-last-stand-mobile.html",
+  "display": "standalone",
+  "background_color": "#070b1d",
+  "theme_color": "#070b1d",
+  "orientation": "landscape",
+  "icons": [{"src":"./neon-last-stand-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
